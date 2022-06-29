@@ -2,7 +2,7 @@
 ## *(Unsupervised Learning Project)*
 #### 🏫 University of Colorado, Boulder - Unsupervised Algorithms in Machine Learning 
 
-
+Data and competition information can be found at https://www.kaggle.com/competitions/learn-ai-bbc/overview
 
 **Overview**
 
